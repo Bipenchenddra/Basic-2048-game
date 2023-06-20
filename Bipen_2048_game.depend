@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1687177979 source:c:\users\bipen\onedrive\documents\code blocks c programming\bipen_2048_game\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<bits/stdc++.h>
+
